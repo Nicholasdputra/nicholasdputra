@@ -42,7 +42,7 @@
         <a href="">Github Page</a> <!-- Github Page for MofuMofu -->
       </td> 
       <td valign="top" align="center">
-        <a href="">Github Page</a> <!-- Github Page for Debugged -->
+        <a href="https://github.com/Nicholasdputra/Debugged">Github Page</a> <!-- Github Page for Debugged -->
       </td> 
     </tr>
     <tr>
