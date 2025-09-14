@@ -1,12 +1,18 @@
 # Hey, I'm Nicholas Dwi Putra!
+<td>I'm an undergraduate student majoring in Binus University's Game Development Course who is a game programmer. Oh, I usually also help out my designer with game designing.</td>
 
 ---
-# Checkout my games!
+
+# Here are some of my works!
   <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://nasimentega.itch.io/mofumofu-cafe">☕Mofu-Mofu Cafe</a></th>
-      <th width="50%"><a href="">🔧 Debugged</a></th> <!-- Itch Page for Debugged -->
+      <th width="50%">
+        <h2><a href="https://nasimentega.itch.io/mofumofu-cafe">☕Mofu-Mofu Cafe</a></h2>
+      </th>
+      <th width="50%">
+        <h2><a href="">🔧 Debugged</a> </h2><!-- Itch Page for Debugged -->
+      </th> 
     </tr>
   </thead>
   <tbody>
@@ -20,18 +26,18 @@
     </tr>
     <tr>
       <td valign="top" align="center">
-        A cozy diner-dash like game where you play as a barista at a cat cafe. During this project, I designed the game and helped with implementing the randomized customer orders, affection meter, and states.
+        A cozy diner-dash like game where you play as an employee in a cat cafe. During this project, I designed the game aw well as helped with implementing customers, their orders, affection meter, and more.
       </td>
       <td valign="top" align="center">
-        Debugged is a tower defense game in which you fight as a defense system trying to squash bugs by switching towers on/off! During the project, I mainly focused on using abstract classes for the different towers and enemies (Solo Programmer).
+        Debugged is a tower defense game in which you fight as a defense system trying to squash bugs by switching towers on/off! During the project, I mainly focused on using abstract classes for the different towers and enemies.
       </td>
     </tr>
     <tr>
       <td valign="top" align="center">
-        GameSeed 2025 Top 40 - Programmer & Designer
+        GameSeed 2025 - Top 40 - Game Programmer & Designer
       </td>
       <td valign="top" align="center">
-        Made for Gelastik 2025.
+        Made for Gelastik 2025 - Game Programmer
       </td>
     </tr>
     <tr>
@@ -52,15 +58,82 @@
     </tr>
   </tbody>
 </table>
-
 <br>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%">
+        <h2> <a href="">🕒 Before 3 A.M.</a> </h2>
+      </th>
+      <th width="50%">
+        <h2> <a href="">🥬 Renara</a> </h2>
+      </th> 
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src=""/> <!-- Before 3 A.M. Gif --> 
+      </td>
+      <td>
+        <img src=""/> <!-- Renara GIF --> 
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" align="center">
+        A horror text based story game where you try to figure out who’s kidnapped everyone to this liminal space before it reaches 3 A.M. During this project, I focused on making a dialogue system like the ones in dating sim games.
+      </td>
+      <td valign="top" align="center">
+        An adventure game in which you play as Amy, trying to extract plant samples, restore the land, and figure out what happened there! During this project I worked on its save system, drag and drop, scriptable objects and also made the crafting system.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" align="center">
+        L2D Game Jam 2025 - 3rd place - Game Programmer
+      </td>
+      <td valign="top" align="center">
+        Game Programmer
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" align="center">
+        <a href="">Github Page</a> <!-- Github Page for Before 3 A.M. -->
+      </td> 
+      <td valign="top" align="center">
+        <a href="">Github Page</a> <!-- Github Page for Renara -->
+      </td> 
+    </tr>
+    <tr>
+      <td valign="top" align="center">
+        <a href="https://nasimentega.itch.io/before-3-am">Itch Page</a> 
+      </td>
+      <td valign="top" align="center">
+        <a href="https://nasimentega.itch.io/renara">Itch Page</a>
+      </td> 
+    </tr>
+  </tbody>
+</table>
 
-<!-- Copy the top part down for another row -->
+# 👨 More About Me
+Aside from becoming a game programmer, here are some other things I've done:<br>
+  - Worked as a game designer on a few projects (sometimes while also being a game programmer)<br>
+  - Worked as a mentor and taught less well performing students, which has improved my communication skills and patience<br>
+  - Worked together along with many others as a freshman chaperone, which has improved my collaboration and communication skills<br>
+<br>
+I am passionate about game development and it is my aspiration to create experiences that not only entertain but also foster emotional resonance as well as meaningful connections with and amongst my players.
 
-# 🕵️‍♂️ About Me
- I'm an undergraduate student majoring in Binus University's Game Development Course. I use Unity to make my games but I'm open to learning other engines!.<br>
- <br>
- Aside from becoming a game programmer, here are some other things I've done:<br>
- - Worked as a game designer on a few projects (sometimes while also being a game programmer)
- - Worked as a mentor and taught less well performing students which has improved my communication skills and patience
- - Worked as a freshman chaperone alongside a group of others which has improved my collaboration and communication skills
+# 🔍 You can find me here:
+<a href="https://ashzen.itch.io/">
+  <img valign="middle" alt="Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/itch-dot-io.svg" />
+  Itch.io : ashzen
+</a> 
+|
+<a href="">
+  <img valign="middle" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
+  Discord : nicholas_d_p
+</a> 
+|
+<a href="">
+  <img valign="middle" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+  Gmail : nicholasdputra@gmail.com
+</a> 
