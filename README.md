@@ -39,7 +39,7 @@
     </tr>
     <tr>
       <td valign="top" align="center">
-        <a href="">Github Page</a> <!-- Github Page for MofuMofu -->
+        <a href="https://github.com/Nicholasdputra/MofuMofu-Cafe">Github Page</a> <!-- Github Page for MofuMofu -->
       </td> 
       <td valign="top" align="center">
         <a href="https://github.com/Nicholasdputra/Debugged">Github Page</a> <!-- Github Page for Debugged -->
@@ -94,7 +94,7 @@
     </tr>
     <tr>
       <td valign="top" align="center">
-        <a href="">Github Page</a> <!-- Github Page for Before 3 A.M. -->
+        <a href="https://github.com/Nicholasdputra/Before-3-AM">Github Page</a> <!-- Github Page for Before 3 A.M. -->
       </td> 
       <td valign="top" align="center">
         <a href="">Github Page</a> <!-- Github Page for Renara -->
