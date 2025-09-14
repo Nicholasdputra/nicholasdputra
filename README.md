@@ -114,6 +114,8 @@
   </tbody>
 </table>
 
+---
+
 # 👨 More About Me
 Aside from becoming a game programmer, here are some other things I've done:<br>
   - Worked as a game designer on a few projects (sometimes while also being a game programmer)<br>
@@ -122,18 +124,24 @@ Aside from becoming a game programmer, here are some other things I've done:<br>
 <br>
 I am passionate about game development and it is my aspiration to create experiences that not only entertain but also foster emotional resonance as well as meaningful connections with and amongst my players.
 
-# 🔍 You can find me here:
-<a href="https://ashzen.itch.io/">
-  <img valign="middle" alt="Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/itch-dot-io.svg" />
-  Itch.io : ashzen
-</a> 
-|
-<a href="">
-  <img valign="middle" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
-  Discord : nicholas_d_p
-</a> 
-|
-<a href="">
-  <img valign="middle" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
-  Gmail : nicholasdputra@gmail.com
-</a> 
+---
+
+<h3 align="center">
+  <a href="https://ashzen.itch.io/">
+    <img alt="Itch.io" width="24" valign="middle"
+         src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/itch-dot-io.svg"/>
+    ashzen
+  </a>
+  &nbsp;|&nbsp;
+  <a href="">
+    <img alt="Discord" width="24" valign="middle"
+         src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg"/>
+    nicholas_d_p
+  </a>
+  &nbsp;|&nbsp;
+  <a href="mailto:nicholasdputra@gmail.com">
+    <img alt="Gmail" width="24" valign="middle"
+         src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>
+    nicholasdputra@gmail.com
+  </a>
+</h3>
