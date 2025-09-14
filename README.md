@@ -1,8 +1,5 @@
 # Hey, I'm Nicholas Dwi Putra!
-<td>I'm an undergraduate student majoring in Binus University's Game Development Course who is a game programmer. Oh, I usually also help out my designer with game designing.</td>
-
 ---
-
 # Here are some of my works!
   <table width="100%">
   <thead>
