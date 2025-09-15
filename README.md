@@ -8,7 +8,7 @@
         <h2><a href="https://nasimentega.itch.io/mofumofu-cafe">☕Mofu-Mofu Cafe</a></h2>
       </th>
       <th width="50%">
-        <h2><a href="">🔧 Debugged</a> </h2><!-- Itch Page for Debugged -->
+        <h2><a href="">🔧 Debugged</a></h2><!-- Itch Page for Debugged -->
       </th> 
     </tr>
   </thead>
@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td valign="top" align="center">
-        A cozy diner-dash like game where you play as an employee in a cat cafe. During this project, I designed the game aw well as helped with implementing customers, their orders, affection meter, and more.
+        A cozy diner-dash like game where you play as an employee in a cat cafe. During this project, I designed the game as well as helped with implementing customers, their orders, affection meter, and more.
       </td>
       <td valign="top" align="center">
         Debugged is a tower defense game in which you fight as a defense system trying to squash bugs by switching towers on/off! During the project, I mainly focused on using abstract classes for the different towers and enemies.
