@@ -1,4 +1,6 @@
 # Hey, I'm Nicholas Dwi Putra!
+<p>I mainly use unity and C# in developing my games.</p>
+
 ---
 # Here are some of my works!
   <table width="100%">
