@@ -99,7 +99,7 @@
         <a href="https://github.com/Nicholasdputra/Before-3-AM">Github Page</a> <!-- Github Page for Before 3 A.M. -->
       </td> 
       <td valign="top" align="center">
-        <a href="">Github Page</a> <!-- Github Page for Renara -->
+        <a href="https://github.com/Nicholasdputra/Renara">Github Page</a> <!-- Github Page for Renara -->
       </td> 
     </tr>
     <tr>
