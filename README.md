@@ -17,7 +17,7 @@
   <tbody>
     <tr>
       <td>
-        <img src=""/> <!-- MofuMofu Cafe Gif --> 
+        <img src="https://github.com/user-attachments/assets/11c95452-40f7-49b9-91e4-de594f9ae143"/> <!-- MofuMofu Cafe Gif --> 
       </td>
       <td>
         <img src=""/> <!-- Debugged GIF --> 
@@ -75,7 +75,7 @@
         <img src=""/> <!-- Before 3 A.M. Gif --> 
       </td>
       <td>
-        <img src=""/> <!-- Renara GIF --> 
+        <img src="https://github.com/user-attachments/assets/bc63bcfb-4512-4740-b36f-d8814fe0e0db"/> <!-- Renara GIF --> 
       </td>
     </tr>
     <tr>
