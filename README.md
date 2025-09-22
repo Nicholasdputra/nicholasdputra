@@ -10,7 +10,7 @@
         <h2><a href="https://nasimentega.itch.io/mofumofu-cafe">☕Mofu-Mofu Cafe</a></h2>
       </th>
       <th width="50%">
-        <h2><a href="">🔧 Debugged</a></h2><!-- Itch Page for Debugged -->
+        <h2><a href="">🔧 Debugged</a></h2><!-- Itch Page for Debugged --> 
       </th> 
     </tr>
   </thead>
@@ -20,7 +20,7 @@
         <img src="https://github.com/user-attachments/assets/11c95452-40f7-49b9-91e4-de594f9ae143"/> <!-- MofuMofu Cafe Gif --> 
       </td>
       <td>
-        <img src=""/> <!-- Debugged GIF --> 
+        <img src="https://github.com/user-attachments/assets/13c66c21-254f-4d35-a9b9-094d5087ebd0"/> <!-- Debugged GIF --> 
       </td>
     </tr>
     <tr>
