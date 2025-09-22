@@ -20,7 +20,7 @@
         <img src="https://github.com/user-attachments/assets/11c95452-40f7-49b9-91e4-de594f9ae143"/> <!-- MofuMofu Cafe Gif --> 
       </td>
       <td>
-        <img src="https://github.com/user-attachments/assets/13c66c21-254f-4d35-a9b9-094d5087ebd0"/> <!-- Debugged GIF --> 
+        <img src="https://github.com/user-attachments/assets/3150a9c2-ce64-40e1-b9ad-5ece9624dca8"/> <!-- Debugged GIF --> 
       </td>
     </tr>
     <tr>
