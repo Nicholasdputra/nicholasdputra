@@ -41,10 +41,10 @@
     </tr>
     <tr>
       <td valign="top" align="center">
-        <a href="https://github.com/Nicholasdputra/MofuMofu-Cafe">Project Technical Breakdown</a> <!-- Github Page for MofuMofu -->
+        <a href="https://github.com/Nicholasdputra/MofuMofu-Cafe">Technical Details Breakdown</a> <!-- Github Page for MofuMofu -->
       </td> 
       <td valign="top" align="center">
-        <a href="https://github.com/Nicholasdputra/Debugged">Project Technical Breakdown</a> <!-- Github Page for Debugged -->
+        <a href="https://github.com/Nicholasdputra/Debugged">Technical Details Breakdown</a> <!-- Github Page for Debugged -->
       </td> 
     </tr>
     <tr>
@@ -96,10 +96,10 @@
     </tr>
     <tr>
       <td valign="top" align="center">
-        <a href="https://github.com/Nicholasdputra/Before-3-AM">Project Technical Breakdown</a> <!-- Github Page for Before 3 A.M. -->
+        <a href="https://github.com/Nicholasdputra/Before-3-AM">Technical Details Breakdown</a> <!-- Github Page for Before 3 A.M. -->
       </td> 
       <td valign="top" align="center">
-        <a href="https://github.com/Nicholasdputra/Renara">Project Technical Breakdown</a> <!-- Github Page for Renara -->
+        <a href="https://github.com/Nicholasdputra/Renara">Technical Details Breakdown</a> <!-- Github Page for Renara -->
       </td> 
     </tr>
     <tr>
