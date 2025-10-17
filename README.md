@@ -33,6 +33,61 @@
     </tr>
     <tr>
       <td valign="top" align="center">
+        <h2>Contributions</h2>
+        <table align="center" width="95%">
+          <tr>
+            <td width="50%">
+              <ul style="white-space: nowrap; list-style-position: inside; padding-left: 0;">
+              <li>Ordering</li>
+              <li>Drinks and Machines</li>
+              <li>Concepting Characters</li>
+              <li>Concepting Game Mechanics</li>
+              <li>Some Character Voices</li>
+            </td>
+            <td width="50%">
+              <ul style="white-space: nowrap; list-style-position: inside; padding-left: 0;">
+              <li>Music & SFX</li>
+              <li>Menu</li>
+              <li>Trash</li>
+              <li>UI and Sprites</li>
+              <li>Time</li>
+              <li>Code Refactoring</li>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top" align="center">
+        <h2>Contributions</h2>
+        <table align="center" width="95%">
+          <tr>
+            <td width="50%">
+              <ul style="white-space: nowrap; list-style-position: inside; padding-left: 0;">
+              <li>Enemies</li>
+              <li>Towers</li>
+              <li>Energy and Tower Limit</li>
+            </td>
+            <td width="50%">
+              <ul style="white-space: nowrap; list-style-position: inside; padding-left: 0;">
+              <li>UI</li>
+              <li>Enemy Waves Spawning</li>
+              <li>Animations</li>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" align="center">
+        Total Hours On The Project:<br>
+        40-50 Hours
+      </td> 
+      <td valign="top" align="center">
+        Total Hours On The Project:<br>
+        40-50 Hours
+      </td> 
+    </tr>
+    <tr>
+      <td valign="top" align="center">
         GameSeed 2025 - Top 40 - Game Programmer & Designer
       </td>
       <td valign="top" align="center">
@@ -86,12 +141,63 @@
         An adventure game in which you play as Amy, trying to extract plant samples, restore the land, and figure out what happened there! During this project I worked on its save system, drag and drop, scriptable objects and also made the crafting system.
       </td>
     </tr>
+        <tr>
+      <td valign="top" align="center">
+        <h2>Contributions</h2>
+        <table align="center" width="95%">
+          <tr>
+            <td width="50%">
+              <ul style="white-space: nowrap; list-style-position: inside; padding-left: 0;">
+              <li>Chacter Dialogues</li>
+              <li>Voting</li>
+              <li>Ending Archives</li>
+            </td>
+            <td width="50%">
+              <ul style="white-space: nowrap; list-style-position: inside; padding-left: 0;">
+              <li>Music & SFX</li>
+              <li>UI</li>
+              <li>Time Consumption Per Dialogue</li>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top" align="center">
+        <h2>Contributions</h2>
+        <table align="center" width="95%">
+          <tr>
+            <td width="50%">
+              <ul style="white-space: nowrap; list-style-position: inside; padding-left: 0;">
+              <li>Drag and Drop</li>
+              <li>Plant Drops</li>
+              <li>Game Lore and Texts</li>
+            </td>
+            <td width="50%">
+              <ul style="white-space: nowrap; list-style-position: inside; padding-left: 0;">
+              <li>Crafting Minigame</li>
+              <li>Save System</li>
+              <li>Recipes</li>
+              <li>Scriptable Objects</li>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" align="center">
+        Total Hours On The Project:<br>
+        20-30 Hours
+      </td> 
+      <td valign="top" align="center">
+        Total Hours On The Project:<br>
+        40-50 Hours
+      </td> 
+    </tr>
     <tr>
       <td valign="top" align="center">
         L2D Game Jam 2025 - 3rd place - Game Programmer
       </td>
       <td valign="top" align="center">
-        Game Programmer
+        Game Programmer & Designer
       </td>
     </tr>
     <tr>
