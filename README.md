@@ -83,7 +83,7 @@
       </td> 
       <td valign="top" align="center">
         Total Hours On The Project:<br>
-        40-50 Hours
+        20-30 Hours
       </td> 
     </tr>
     <tr>
