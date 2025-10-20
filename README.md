@@ -3,7 +3,7 @@
 
 ---
 # Here are some of my works!
-  <table width="100%">
+  <table width="99%">
   <thead>
     <tr>
       <th width="50%">
